@@ -1,0 +1,30 @@
+{
+    "word_id": 40000190,
+    "text": "dressing",
+    "name_display": "object-story-4131-",
+    "path_word": "uopv7fqycthpm2nqy7wpb3uxkgepgemz_234728.zip",
+    "sentence_type": 0,
+    "image": [],
+    "video": [],
+    "audio": [
+        {
+            "id": 120189,
+            "link": "audio/hqM5cpRMpYLxyeoUHSmYgh1672993517005.mp3",
+            "file_path": "hqM5cpRMpYLxyeoUHSmYgh1672993517005.mp3",
+            "duration": 0,
+            "voices_id": 65,
+            "sync_data": []
+        }
+    ],
+    "audio_effect": [],
+    "gaf": [],
+    "spine": [],
+    "animation": [],
+    "color": {
+        "text": "",
+        "highlight": ""
+    },
+    "filter_word": [],
+    "phonic": [],
+    "list_not_game": []
+}

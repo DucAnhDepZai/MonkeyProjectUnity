@@ -1,0 +1,73 @@
+{
+    "word_id": 40000168,
+    "text": "Finally, I will add the dressing.",
+    "name_display": "page-story-4131-Finally, I will add the dressing.",
+    "path_word": "1gi7enbqa2wkvwo6hlkvvxcmealqafph_234728.zip",
+    "sentence_type": 0,
+    "image": [],
+    "video": [],
+    "audio": [
+        {
+            "id": 120167,
+            "link": "audio/wzEzNjrTTb9fLv10XTZNtQ1672993841348.mp3",
+            "file_path": "wzEzNjrTTb9fLv10XTZNtQ1672993841348.mp3",
+            "duration": 6408,
+            "voices_id": 65,
+            "sync_data": [
+                {
+                    "e": 1200,
+                    "s": 0,
+                    "te": 7,
+                    "ts": 0,
+                    "w": "Finally,"
+                },
+                {
+                    "e": 1490,
+                    "s": 1200,
+                    "te": 9,
+                    "ts": 9,
+                    "w": "I"
+                },
+                {
+                    "e": 1700,
+                    "s": 1490,
+                    "te": 14,
+                    "ts": 11,
+                    "w": "will"
+                },
+                {
+                    "e": 2100,
+                    "s": 1700,
+                    "te": 18,
+                    "ts": 16,
+                    "w": "add"
+                },
+                {
+                    "e": 2260,
+                    "s": 2100,
+                    "te": 22,
+                    "ts": 20,
+                    "w": "the"
+                },
+                {
+                    "e": 3580,
+                    "s": 2260,
+                    "te": 32,
+                    "ts": 24,
+                    "w": "dressing."
+                }
+            ]
+        }
+    ],
+    "audio_effect": [],
+    "gaf": [],
+    "spine": [],
+    "animation": [],
+    "color": {
+        "text": "",
+        "highlight": ""
+    },
+    "filter_word": [],
+    "phonic": [],
+    "list_not_game": []
+}
